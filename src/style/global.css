@@ -1,0 +1,8 @@
+/*全局ccs/
+ */
+/*全页面显示*/
+.html,body{
+    height: 100%;
+    margin:0;
+    padding: 0;
+}
